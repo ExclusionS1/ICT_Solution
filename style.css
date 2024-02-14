@@ -7,6 +7,40 @@
     color: chartreuse;
   }
 
+  .black{
+    background-color: black;
+    color: white ;
+  }
+
+  #portfolio h2 , #portfolio h4{
+    color: white;
+  }
+  #services h2 , #services h4{
+    color: white;
+  }
+
+  #pricing h2 , #pricing h4{
+    color: white;
+  }
+
+  #Data{
+    border-color: Black;
+    border-style: double;
+    border-width: 30px;
+    
+  }
+  #Data .border{
+    border: Black;
+    border-width: 5px;
+    border-style: Solid;
+    padding-left: 20px;
+  }
+  
+  #services .border{
+    border: white;
+    border-width: "5px";
+    border-style: dotted;
+  }
   h2 {
     font-size: 24px;
     text-transform: uppercase;
